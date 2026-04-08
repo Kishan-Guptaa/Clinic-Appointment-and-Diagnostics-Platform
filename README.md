@@ -25,7 +25,7 @@ Reports – stores generated diagnostic reports
 Payments – records payment details for services
 
 
-## #Workflow Covered in the ER Diagram
+### Workflow Covered in the ER Diagram
 
 The diagram supports the following clinic flow:
 
